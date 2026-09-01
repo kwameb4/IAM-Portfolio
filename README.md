@@ -5,6 +5,7 @@ Hands-on IAM labs documenting real-world identity engineering and GRC practices 
 ---
 ### PRACTICAL AUDIT AND COMPLIANCE LAB — PART 1 
 https://github-readme-medium-recent-article.vercel.app/medium/@kwameagyemangbaffour/0
-
+---
 ### OKTA ACTIVE DIRECTORY INTEGRATION 
 https://github-readme-medium-recent-article.vercel.app/medium/@kwameagyemangbaffour/1
+---
